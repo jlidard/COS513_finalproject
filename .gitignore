@@ -1,0 +1,5 @@
+checkpoints
+plots
+datasets
+*.pt
+slides.pptx
